@@ -1,0 +1,23 @@
+[project]
+name = "mmt-9th"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.0",
+    "pingouin>=0.7.0",
+    "polars>=2.0.0",
+    "py7zr>=1.1.4",
+    "pyarrow>=26.0.0",
+    "pysr>=2.7.2",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.15.0",
+    "sympy>=1.14.0",
+    "xy>=0.0.8",
+]
